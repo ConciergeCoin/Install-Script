@@ -99,9 +99,9 @@ EXTIP=`curl -s4 icanhazip.com`
 echo Please input your private key.
 read GENKEY
 
-mkdir -p /root/.Concierge && touch /root/.Concierge/Concierge.conf
+mkdir -p /root/.concierge && touch /root/.concierge/concierge.conf
 
-cat << EOF > /root/.Concierge/Concierge.conf
+cat << EOF > /root/.concierge/concierge.conf
 rpcuser=$RPCUSER
 rpcpassword=$RPCPASSWORD
 rpcallowip=127.0.0.1
