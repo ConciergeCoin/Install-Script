@@ -32,7 +32,7 @@ Next step is to download the script on the vps with command below.
 cd &&  bash -c "$(wget -O - https://raw.githubusercontent.com/ConciergeCoin/Install-Script/master/concierge-install.sh)"
 ```
 
-You will have 6 options one you run the command above.
+You will have 6 options once you run the command above.
 1. This option Will install a fresh MNN VPS instance
 2. This option will update your MN wallet on the vps if a network or wallet update is needed.
 3. This option will Start Concierge Masternode
