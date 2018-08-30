@@ -1,6 +1,6 @@
 ![logo](https://github.com/ConciergeCoin/Concierge/blob/master/src/qt/res/images/concierge_logo_horizontal.png)
 
-# Concierge v1.0.0.0 Masternode Setup Guide [ Ubuntu 16.04 ]
+# Concierge v1.0.0.1 Masternode Setup Guide [ Ubuntu 16.04 ]
 
 THIS GUIDE IS FOR ROOT USERS -
 
@@ -18,7 +18,7 @@ Shell script to install a Concierge Masternode on a Linux server running Ubuntu 
 **This script can generate a private key for you, or you can generate your own private key on the Desktop software.**
 
 Steps generate your own private key. 
-1.  Download and install Concierge v1.0.0.0 for Windows -   Download Link  - https://github.com/ConciergeCoin/Concierge/releases/tag/V1.0.0.1
+1.  Download and install Concierge v1.0.0.1 for Windows -   Download Link  - https://github.com/ConciergeCoin/Concierge/releases/tag/V1.0.0.1
 2.  Go to **Tools -> Click "Debug Console"** 
 3.  Type the following command: **masternode genkey**  
 4. You now have your generated **Private Key**  (MasternodePrivKey)
