@@ -80,7 +80,7 @@ sudo ufw status
 echo Server firewall configuration completed.
 
 echo Downloading AquilaX install files.
-wget https://github.com/ConciergeCoin/Concierge/releases/download/V1.0.0.0/Concierge-linux.tar.gz
+wget https://github.com/ConciergeCoin/Concierge/releases/download/V1.0.0.1/Concierge-linux.tar.gz
 echo Download complete.
 
 echo Installing Concierge.
