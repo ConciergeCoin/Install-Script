@@ -161,9 +161,10 @@ echo Installing Concierge.
 tar -xvf Concierge-linux.tar.gz
 chmod 775 ./concierged
 chmod 775 ./concierge-cli
-echo Concierge install complete. 
 sudo rm -rf Concierge-linux.tar.gz
 ./concierged -daemon
+echo Concierge install complete. 
+
 
             ;;
         3)
