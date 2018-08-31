@@ -163,6 +163,7 @@ chmod 775 ./concierged
 chmod 775 ./concierge-cli
 echo Concierge install complete. 
 sudo rm -rf Concierge-linux.tar.gz
+./concierged -daemon
 
             ;;
         3)
