@@ -56,7 +56,7 @@ Check the block height
 watch ./concierge-cli getinfo
 ```
 
-We want the blocks to match whats on the Aquila block explorer
+We want the blocks to match whats on the Concierge block explorer
 
 Once they match you can proceed with the rest of the guide.
 
